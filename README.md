@@ -1,0 +1,2 @@
+# 1BThalysma
+Pensamento computacional
